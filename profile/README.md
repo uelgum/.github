@@ -1,3 +1,3 @@
 <p align="center">
-    <img src="./ue.svg" width="960" height="480" alt="Uelgum Logo"/>
+    <img src="./ue.png" alt="Uelgum Logo"/>
 </p>
